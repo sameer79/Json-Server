@@ -1,0 +1,1363 @@
+{
+  "rm_details": [{
+      "name": "Alfonso Jolley",
+      "id": 983998,
+      "parameters": {
+        "RelationshipManaged": "Relationship Managed",
+        "RelationshipManagedAmount": 20,
+        "RelationshipManagedCurrenty": "",
+        "AssetUnderManagement": "Asset Under Management",
+        "AssetUnderManagementAmount": 5835000,
+        "AssetUnderManagementCurrency": "USD",
+        "Revenue": "Revenue",
+        "RevenueAmount": 116700,
+        "RevenueCurrency": "USD",
+        "ProspectCount": "Prospect Count",
+        "ProspectCountAmount": 170,
+        "ProspectCountCurrency": "",
+        "OpenOppurtunities": "Open Oppurtunities",
+        "OpenOppurtunitiesAmount": 31,
+        "OpenOppurtunitiesCurrency": "",
+        "ExpectedAssetUnderManagement": "Expected Asset Under Management",
+        "ExpectedAssetUnderManagementAmount": 6710250,
+        "ExpectedAssetUnderManagementCurrency": "USD",
+        "IncomeDistributionCount": "Income Distribution Count",
+        "IncomeDistributionCountAmount": 18,
+        "IncomeDistributionCountCurrency": "",
+        "IncomeDistribution": "Income Distribution Amount",
+        "IncomeDistributionAmount": 79000,
+        "IncomeDistributionCurrency": "USD",
+        "MeetingsCount": "Meetings Count",
+        "MeetingsCountAmount": 8,
+        "MeetingsCountCurrency": "",
+        "Meetings": "Meetings Amount",
+        "MeetingsAmount": 150000,
+        "MeetingsCurrency": "USD"
+      },
+      "products": [{
+          "productName": "Wealth Management ",
+          "aum": "640000",
+          "currency": "USD",
+          "allocation": "11.59"
+        },
+        {
+          "productName": "Financial Planning",
+          "aum": "365000",
+          "currency": "USD",
+          "allocation": "6.61"
+        },
+        {
+          "productName": "Alternate Investments",
+          "aum": "3055000",
+          "currency": "USD",
+          "allocation": "55.34"
+        },
+        {
+          "productName": "Private Banking",
+          "aum": "300000",
+          "currency": "USD",
+          "allocation": "5.43"
+        },
+        {
+          "productName": "Unit Investment Trust Fund ",
+          "aum": "1160000",
+          "currency": "USD",
+          "allocation": "21.01"
+        },
+        {
+          "productName": "Wealth Management ",
+          "aum": "315000",
+          "currency": "USD",
+          "allocation": "5.71"
+        }
+      ],
+      "securities": [{
+          "type": "Direct Equity",
+          "aum": "922675.00",
+          "currency": "USD",
+          "allocation": "15.97"
+        },
+        {
+          "type": "Mutual Funds",
+          "aum": "369070.00",
+          "currency": "USD",
+          "allocation": "6.39"
+        },
+        {
+          "type": "Others",
+          "aum": "553605.00",
+          "currency": "USD",
+          "allocation": "9.58"
+        },
+        {
+          "type": "Bonds",
+          "aum": "657666.00",
+          "currency": "USD",
+          "allocation": "11.39"
+        },
+        {
+          "type": "Commercial Paper",
+          "aum": "803814.00",
+          "currency": "USD",
+          "allocation": "13.92"
+        },
+        {
+          "type": "Corporate Bonds",
+          "aum": "292296.00",
+          "currency": "USD",
+          "allocation": "5.06"
+        },
+        {
+          "type": "Others",
+          "aum": "438444.00",
+          "currency": "USD",
+          "allocation": "7.59"
+        },
+        {
+          "type": "Loans",
+          "aum": "487160.00",
+          "currency": "USD",
+          "allocation": "8.43"
+        },
+        {
+          "type": "Real Estate",
+          "aum": "196060.50",
+          "currency": "USD",
+          "allocation": "3.39"
+        },
+        {
+          "type": "Private Equity Fund",
+          "aum": "137659.50",
+          "currency": "USD",
+          "allocation": "2.38"
+        },
+        {
+          "type": "Alternate Investment Fund",
+          "aum": "83430.00",
+          "currency": "USD",
+          "allocation": "1.44"
+        },
+        {
+          "type": "Others",
+          "aum": "291006.00",
+          "currency": "USD",
+          "allocation": "5.04"
+        },
+        {
+          "type": "Deposits",
+          "aum": "355674.00",
+          "currency": "USD",
+          "allocation": "6.16"
+        },
+        {
+          "type": "Cash",
+          "aum": "538900.00",
+          "currency": "USD",
+          "allocation": "9.33"
+        }
+      ],
+      "revenueFee": [{
+          "feeType": "AUM Based Fees",
+          "revenue": "25674.00",
+          "currency": "USD",
+          "allocation": "22.00"
+        },
+        {
+          "feeType": "Transaction Based Fees",
+          "revenue": "15147.66",
+          "currency": "USD",
+          "allocation": "12.98"
+        },
+        {
+          "feeType": "Performance Fees",
+          "revenue": "21939.60",
+          "currency": "USD",
+          "allocation": "18.80"
+        },
+        {
+          "feeType": "Upfront Commission",
+          "revenue": "17738.40",
+          "currency": "USD",
+          "allocation": "15.20"
+        },
+        {
+          "feeType": "Trail Commission ",
+          "revenue": "14470.80",
+          "currency": "USD",
+          "allocation": "12.40"
+        },
+        {
+          "feeType": "Others",
+          "revenue": "21729.54",
+          "currency": "USD",
+          "allocation": "18.62"
+        }
+      ],
+      "revenueProduct": [{
+          "productType": "Wealth Management ",
+          "revenue": "37344.00",
+          "currency": "USD",
+          "allocation": "32.00"
+        },
+        {
+          "productType": "Financial Planning",
+          "revenue": "24635.37",
+          "currency": "USD",
+          "allocation": "21.11"
+        },
+        {
+          "productType": "Alternate Investments",
+          "revenue": "10187.91",
+          "currency": "USD",
+          "allocation": "8.73"
+        },
+        {
+          "productType": "Private Banking",
+          "revenue": "15754.50",
+          "currency": "USD",
+          "allocation": "13.50"
+        }, {
+          "productType": "Unit Investment Trust Fund ",
+          "revenue": "14260.74",
+          "currency": "USD",
+          "allocation": "12.22"
+        }, {
+          "productType": "Wealth Management ",
+          "revenue": "6659.51",
+          "currency": "USD",
+          "allocation": "5.71"
+        },
+        {
+          "productType": "Others",
+          "revenue": "7857.97",
+          "currency": "USD",
+          "allocation": "6.73"
+        }
+      ],
+      "aumTrend": [{
+          "aum": "6127460.00",
+          "currency": "USD",
+          "period": "18-Sep",
+          "aumMin": "6.13"
+        },
+        {
+          "aum": "5759812.40",
+          "currency": "USD",
+          "period": "18-Jun",
+          "aumMin": "5.76"
+        },
+        {
+          "aum": "4492653.67",
+          "currency": "USD",
+          "period": "18-Mar",
+          "aumMin": "4.49"
+        },
+        {
+          "aum": "5391184.41",
+          "currency": "USD",
+          "period": "17-Dec",
+          "aumMin": "5.39"
+        }, {
+          "aum": "4905977.81",
+          "currency": "USD",
+          "period": "17-Sep",
+          "aumMin": "4.91"
+        }, {
+          "aum": "4268200.69",
+          "currency": "USD",
+          "period": "17-Jun",
+          "aumMin": "4.2699999999999996"
+        },
+        {
+          "aum": "4438928.72",
+          "currency": "USD",
+          "period": "17-Mar",
+          "aumMin": "4.4400000000000004"
+        }, {
+          "aum": "5415493.04",
+          "currency": "USD",
+          "period": "16-Dec",
+          "aumMin": "5.42"
+        }, {
+          "aum": "4982253.60",
+          "currency": "USD",
+          "period": "16-Sep",
+          "aumMin": "4.9800000000000004"
+        },
+        {
+          "aum": "4384383.17",
+          "currency": "USD",
+          "period": "16-Jun",
+          "aumMin": "4.38"
+        }
+      ],
+      "revenueTrend": [{
+          "revenue": "116700.00",
+          "currency": "USD",
+          "period": "18-Sep",
+          "revenueMin": "0.12"
+        },
+        {
+          "revenue": "93360.00",
+          "currency": "USD",
+          "period": "18-Jun",
+          "revenueMin": "0.09"
+        },
+        {
+          "revenue": "74688.00",
+          "currency": "USD",
+          "period": "18-Mar",
+          "revenueMin": "7.0000000000000007E-2"
+        },
+        {
+          "revenue": "59750.40",
+          "currency": "USD",
+          "period": "17-Dec",
+          "revenueMin": "0.06"
+        }, {
+          "revenue": "83650.56",
+          "currency": "USD",
+          "period": "17-Sep",
+          "revenueMin": "0.08"
+        }, {
+          "revenue": "85323.57",
+          "currency": "USD",
+          "period": "17-Jun",
+          "revenueMin": "0.09"
+        },
+        {
+          "revenue": "68258.86",
+          "currency": "USD",
+          "period": "17-Mar",
+          "revenueMin": "7.0000000000000007E-2"
+        }, {
+          "revenue": "62798.15",
+          "currency": "USD",
+          "period": "16-Dec",
+          "revenueMin": "0.06"
+        }, {
+          "revenue": "50866.50",
+          "currency": "USD",
+          "period": "16-Sep",
+          "revenueMin": "0.05"
+        },
+        {
+          "revenue": "38658.54",
+          "currency": "USD",
+          "period": "16-Jun",
+          "revenueMin": "0.04"
+        }
+      ],
+      "RM_Manager": [{
+          "count": "20",
+          "period": "18-Sep",
+          "existingNew": "Existing"
+        },
+        {
+          "count": "16",
+          "period": "18-Jun",
+          "existingNew": "Existing"
+        },
+        {
+          "count": "12",
+          "period": "18-Mar",
+          "existingNew": "Existing"
+        },
+        {
+          "count": "18",
+          "period": "17-Dec",
+          "existingNew": "Existing"
+        },
+        {
+          "count": "16",
+          "period": "17-Sep",
+          "existingNew": "Existing"
+        }, {
+          "count": "21",
+          "period": "17-Jun",
+          "existingNew": "Existing"
+        }, {
+          "count": "15",
+          "period": "17-Mar",
+          "existingNew": "Existing"
+        }, {
+          "count": "12",
+          "period": "16-Dec",
+          "existingNew": "Existing"
+        },
+        {
+          "count": "10",
+          "period": "16-Sep",
+          "existingNew": "Existing"
+        }, {
+          "count": "12",
+          "period": "16-Jun",
+          "existingNew": "Existing"
+        }, {
+          "count": "3",
+          "period": "18-Sep",
+          "existingNew": "New"
+        }, {
+          "count": "5",
+          "period": "18-Jun",
+          "existingNew": "New"
+        },
+        {
+          "count": "3",
+          "period": "18-Mar",
+          "existingNew": "New"
+        }, {
+          "count": "8",
+          "period": "17-Dec",
+          "existingNew": "New"
+        }, {
+          "count": "4",
+          "period": "17-Sep",
+          "existingNew": "New"
+        },
+        {
+          "count": "3",
+          "period": "17-Jun",
+          "existingNew": "New"
+        },
+        {
+          "count": "5",
+          "period": "17-Mar",
+          "existingNew": "New"
+        },
+        {
+          "count": "5",
+          "period": "16-Dec",
+          "existingNew": "New"
+        },
+        {
+          "count": "4",
+          "period": "16-Sep",
+          "existingNew": "New"
+        },
+        {
+          "count": "6",
+          "period": "16-Jun",
+          "existingNew": "New"
+        }
+      ]
+    },
+
+
+
+
+
+
+    {
+      "name": "Arthur Jasper",
+      "id": 984000,
+      "parameters": {
+        "RelationshipManaged": "Relationship Managed",
+        "RelationshipManagedAmount": 20,
+        "RelationshipManagedCurrenty": "",
+        "AssetUnderManagement": "Asset Under Management",
+        "AssetUnderManagementAmount": 23785000,
+        "AssetUnderManagementCurrency": "USD",
+        "Revenue": "Revenue",
+        "RevenueAmount": 475700,
+        "RevenueCurrency": "USD",
+        "ProspectCount": "Prospect Count",
+        "ProspectCountAmount": 164,
+        "ProspectCountCurrency": "",
+        "OpenOppurtunities": "Open Oppurtunities",
+        "OpenOppurtunitiesAmount": 44,
+        "OpenOppurtunitiesCurrency": "",
+        "ExpectedAssetUnderManagement": "Expected Asset Under Management",
+        "ExpectedAssetUnderManagementAmount": 27352750,
+        "ExpectedAssetUnderManagementCurrency": "USD",
+        "IncomeDistributionCount": "Income Distribution Count",
+        "IncomeDistributionCountAmount": 18,
+        "IncomeDistributionCountCurrency": "",
+        "IncomeDistribution": "Income Distribution Amount",
+        "IncomeDistributionAmount": 79000,
+        "IncomeDistributionCurrency": "USD",
+        "MeetingsCount": "Meetings Count",
+        "MeetingsCountAmount": 12,
+        "MeetingsCountCurrency": "",
+        "Meetings": "Meetings Amount",
+        "MeetingsAmount": 200000,
+        "MeetingsCurrency": "USD"
+      },
+      "products": [{
+          "productName": "Discretionary Portfolio Management",
+          "aum": "5585000",
+          "currency": "USD",
+          "allocation": "23.48"
+        },
+        {
+          "productName": "Financial Planning",
+          "aum": "5505000",
+          "currency": "USD",
+          "allocation": "23.14"
+        },
+        {
+          "productName": "Investment Management Account",
+          "aum": "2960000",
+          "currency": "USD",
+          "allocation": "12.44"
+        },
+        {
+          "productName": "Personal Equity & Retirement Account",
+          "aum": "2575000",
+          "currency": "USD",
+          "allocation": "10.83"
+        },
+        {
+          "productName": "Private Banking",
+          "aum": "1495000",
+          "currency": "USD",
+          "allocation": "6.29"
+        },
+        {
+          "productName": "Unit Investment Trust Fund ",
+          "aum": "2835000",
+          "currency": "USD",
+          "allocation": "11.92"
+        },
+        {
+          "productName": "Wealth Management ",
+          "aum": "2830000",
+          "currency": "USD",
+          "allocation": "11.90"
+        }
+      ],
+      "securities": [{
+          "type": "Direct Equity",
+          "aum": "2071308.00",
+          "currency": "USD",
+          "allocation": "8.51"
+        },
+        {
+          "type": "Mutual Funds",
+          "aum": "5696097.00",
+          "currency": "USD",
+          "allocation": "23.41"
+        },
+        {
+          "type": "Others",
+          "aum": "863045.00",
+          "currency": "USD",
+          "allocation": "3.55"
+        },
+        {
+          "type": "Bonds",
+          "aum": "1385505.00",
+          "currency": "USD",
+          "allocation": "5.69"
+        },
+        {
+          "type": "Others",
+          "aum": "1108404.00",
+          "currency": "USD",
+          "allocation": "4.56"
+        },
+        {
+          "type": "Corporate Bonds",
+          "aum": "2309175.00",
+          "currency": "USD",
+          "allocation": "9.49"
+        },
+        {
+          "type": "Structure Products",
+          "aum": "1754973.00",
+          "currency": "USD",
+          "allocation": "7.21"
+        },
+        {
+          "type": "Mutual Funds",
+          "aum": "1570239.00",
+          "currency": "USD",
+          "allocation": "6.45"
+        },
+        {
+          "type": "Loans",
+          "aum": "1108404.00",
+          "currency": "USD",
+          "allocation": "4.56"
+        },
+        {
+          "type": "Real Estate",
+          "aum": "1079735.00",
+          "currency": "USD",
+          "allocation": "4.44"
+        },
+        {
+          "type": "Others",
+          "aum": "579370.00",
+          "currency": "USD",
+          "allocation": "2.38"
+        },
+        {
+          "type": "Alternate Investment Fund",
+          "aum": "974395.00",
+          "currency": "USD",
+          "allocation": "4.00"
+        },
+        {
+          "type": "Others",
+          "aum": "316020.00",
+          "currency": "USD",
+          "allocation": "1.30"
+        },
+        {
+          "type": "Deposits",
+          "aum": "1106070.00",
+          "currency": "USD",
+          "allocation": "4.55"
+        },
+        {
+          "type": "Mutual Funds",
+          "aum": "263350.00",
+          "currency": "USD",
+          "allocation": "1.08"
+        },
+        {
+          "type": "Cash",
+          "aum": "948060.00",
+          "currency": "USD",
+          "allocation": "3.90"
+        }
+      ],
+      "revenueFee": [{
+          "feeType": "AUM Based Fees",
+          "revenue": "99897.00",
+          "currency": "USD",
+          "allocation": "21.00"
+        }, {
+          "feeType": "Transaction Based Fees",
+          "revenue": "80869.00",
+          "currency": "USD",
+          "allocation": "17.00"
+        },
+        {
+          "feeType": "Performance Fees",
+          "revenue": "58035.40",
+          "currency": "USD",
+          "allocation": "12.20"
+        }, {
+          "feeType": "Upfront Commission",
+          "revenue": "131768.90",
+          "currency": "USD",
+          "allocation": "27.70"
+        },
+        {
+          "feeType": "Trail Commission ",
+          "revenue": "58986.80",
+          "currency": "USD",
+          "allocation": "12.40"
+        }, {
+          "feeType": "Others",
+          "revenue": "46142.90",
+          "currency": "USD",
+          "allocation": "9.70"
+        }
+      ],
+      "revenueProduct": [{
+          "productType": "Discretionary Portfolio Management",
+          "revenue": "111700.00",
+          "currency": "USD",
+          "allocation": "23.48"
+        },
+        {
+          "productType": "Financial Planning",
+          "revenue": "55656.90",
+          "currency": "USD",
+          "allocation": "11.70"
+        },
+        {
+          "productType": "Investment Management Account",
+          "revenue": "40101.51",
+          "currency": "USD",
+          "allocation": "8.43"
+        }, {
+          "productType": "Personal Equity & Retirement Account",
+          "revenue": "46999.16",
+          "currency": "USD",
+          "allocation": "9.88"
+        },
+        {
+          "productType": "Private Banking",
+          "revenue": "57084.00",
+          "currency": "USD",
+          "allocation": "12.00"
+        }, {
+          "productType": "Unit Investment Trust Fund ",
+          "revenue": "56700.00",
+          "currency": "USD",
+          "allocation": "11.92"
+        },
+        {
+          "productType": "Wealth Management ",
+          "revenue": "56600.00",
+          "currency": "USD",
+          "allocation": "11.90"
+        }, {
+          "productType": "Others",
+          "revenue": "50858.43",
+          "currency": "USD",
+          "allocation": "10.69"
+        }
+      ],
+      "aumTrend": [{
+          "aum": "23134150.00",
+          "currency": "USD",
+          "period": "18-Sep",
+          "aumMin": "23.13"
+        },
+        {
+          "aum": "21746101.00",
+          "currency": "USD",
+          "period": "18-Jun",
+          "aumMin": "21.75"
+        },
+        {
+          "aum": "16961958.78",
+          "currency": "USD",
+          "period": "18-Mar",
+          "aumMin": "16.96"
+        }, {
+          "aum": "20354350.54",
+          "currency": "USD",
+          "period": "17-Dec",
+          "aumMin": "20.350000000000001"
+        },
+        {
+          "aum": "18522458.99",
+          "currency": "USD",
+          "period": "17-Sep",
+          "aumMin": "18.52"
+        }, {
+          "aum": "16114539.32",
+          "currency": "USD",
+          "period": "17-Jun",
+          "aumMin": "16.11"
+        },
+        {
+          "aum": "16759120.89",
+          "currency": "USD",
+          "period": "17-Mar",
+          "aumMin": "16.760000000000002"
+        }, {
+          "aum": "20446127.49",
+          "currency": "USD",
+          "period": "16-Dec",
+          "aumMin": "20.45"
+        },
+        {
+          "aum": "18810437.29",
+          "currency": "USD",
+          "period": "16-Sep",
+          "aumMin": "18.809999999999999"
+        }, {
+          "aum": "16553184.81",
+          "currency": "USD",
+          "period": "16-Jun",
+          "aumMin": "16.55"
+        }
+      ],
+      "revenueTrend": [{
+          "revenue": "38658.54",
+          "currency": "USD",
+          "period": "16-Jun",
+          "revenueMin": "0.04"
+        }, {
+          "revenue": "475700.00",
+          "currency": "USD",
+          "period": "18-Sep",
+          "revenueMin": "0.48"
+        }, {
+          "revenue": "380560.00",
+          "currency": "USD",
+          "period": "18-Jun",
+          "revenueMin": "0.38"
+        }, {
+          "revenue": "304448.00",
+          "currency": "USD",
+          "period": "18-Mar",
+          "revenueMin": "0.3"
+        }, {
+          "revenue": "243558.40",
+          "currency": "USD",
+          "period": "17-Dec",
+          "revenueMin": "0.24"
+        },
+        {
+          "revenue": "340981.76",
+          "currency": "USD",
+          "period": "17-Sep",
+          "revenueMin": "0.34"
+        }, {
+          "revenue": "347801.40",
+          "currency": "USD",
+          "period": "17-Jun",
+          "revenueMin": "0.35"
+        }, {
+          "revenue": "278241.12",
+          "currency": "USD",
+          "period": "17-Mar",
+          "revenueMin": "0.28000000000000003"
+        }, {
+          "revenue": "255981.83",
+          "currency": "USD",
+          "period": "16-Dec",
+          "revenueMin": "0.26"
+        }, {
+          "revenue": "207345.28",
+          "currency": "USD",
+          "period": "16-Sep",
+          "revenueMin": "0.21"
+        },
+        {
+          "revenue": "157582.41",
+          "currency": "USD",
+          "period": "16-Jun",
+          "revenueMin": "0.16"
+        }
+      ],
+      "RM_Manager": [{
+          "count": "47",
+          "period": "18-Sep",
+          "existingNew": "Existing"
+        }, {
+          "count": "38",
+          "period": "18-Jun",
+          "existingNew": "Existing"
+        }, {
+          "count": "22",
+          "period": "18-Mar",
+          "existingNew": "Existing"
+        },
+        {
+          "count": "39",
+          "period": "17-Dec",
+          "existingNew": "Existing"
+        }, {
+          "count": "40",
+          "period": "17-Sep",
+          "existingNew": "Existing"
+        }, {
+          "count": "38",
+          "period": "17-Jun",
+          "existingNew": "Existing"
+        },
+        {
+          "count": "36",
+          "period": "17-Mar",
+          "existingNew": "Existing"
+        }, {
+          "count": "39",
+          "period": "16-Dec",
+          "existingNew": "Existing"
+        }, {
+          "count": "41",
+          "period": "16-Sep",
+          "existingNew": "Existing"
+        },
+        {
+          "count": "87",
+          "period": "16-Jun",
+          "existingNew": "Existing"
+        }, {
+          "count": "12",
+          "period": "18-Sep",
+          "existingNew": "New"
+        }, {
+          "count": "9",
+          "period": "18-Jun",
+          "existingNew": "New"
+        },
+        {
+          "count": "8",
+          "period": "18-Mar",
+          "existingNew": "New"
+        }, {
+          "count": "5",
+          "period": "17-Dec",
+          "existingNew": "New"
+        }, {
+          "count": "3",
+          "period": "17-Sep",
+          "existingNew": "New"
+        },
+        {
+          "count": "12",
+          "period": "17-Jun",
+          "existingNew": "New"
+        },
+        {
+          "count": "14",
+          "period": "17-Mar",
+          "existingNew": "New"
+        },
+        {
+          "count": "9",
+          "period": "16-Dec",
+          "existingNew": "New"
+        },
+        {
+          "count": "5",
+          "period": "16-Sep",
+          "existingNew": "New"
+        },
+        {
+          "count": "4",
+          "period": "16-Jun",
+          "existingNew": "New"
+        }
+      ]
+    },
+
+
+
+
+
+
+    {
+      "name": "Daniel Abbot",
+      "id": 984002,
+      "parameters": {
+        "RelationshipManaged": "Relationship Managed",
+        "RelationshipManagedAmount": 28,
+        "RelationshipManagedCurrenty": "",
+        "AssetUnderManagement": "Asset Under Management",
+        "AssetUnderManagementAmount": 12580000,
+        "AssetUnderManagementCurrency": "USD",
+        "Revenue": "Revenue",
+        "RevenueAmount": 251600,
+        "RevenueCurrency": "USD",
+        "ProspectCount": "Prospect Count",
+        "ProspectCountAmount": 180,
+        "ProspectCountCurrency": "",
+        "OpenOppurtunities": "Open Oppurtunities",
+        "OpenOppurtunitiesAmount": 32,
+        "OpenOppurtunitiesCurrency": "",
+        "ExpectedAssetUnderManagement": "Expected Asset Under Management",
+        "ExpectedAssetUnderManagementAmount": 14467000,
+        "ExpectedAssetUnderManagementCurrency": "USD",
+        "IncomeDistributionCount": "Income Distribution Count",
+        "IncomeDistributionCountAmount": 21,
+        "IncomeDistributionCountCurrency": "",
+        "IncomeDistribution": "Income Distribution Amount",
+        "IncomeDistributionAmount": 81000,
+        "IncomeDistributionCurrency": "USD",
+        "MeetingsCount": "Meetings Count",
+        "MeetingsCountAmount": 9,
+        "MeetingsCountCurrency": "",
+        "Meetings": "Meetings Amount",
+        "MeetingsAmount": 120000,
+        "MeetingsCurrency": "USD"
+      },
+      "products": [{
+          "productName": "Discretionary Portfolio Management",
+          "aum": "400000",
+          "currency": "USD",
+          "allocation": "3.18"
+        },
+        {
+          "productName": "Financial Planning",
+          "aum": "1795000",
+          "currency": "USD",
+          "allocation": "14.27"
+        },
+        {
+          "productName": "Investment Management Account",
+          "aum": "3240000",
+          "currency": "USD",
+          "allocation": "25.76"
+        },
+        {
+          "productName": "Personal Equity & Retirement Account",
+          "aum": "3940000",
+          "currency": "USD",
+          "allocation": "31.32"
+        },
+        {
+          "productName": "Private Banking",
+          "aum": "860000",
+          "currency": "USD",
+          "allocation": "6.84"
+        },
+        {
+          "productName": "Unit Investment Trust Fund ",
+          "aum": "1115000",
+          "currency": "USD",
+          "allocation": "8.86"
+        },
+        {
+          "productName": "Wealth Management ",
+          "aum": "1230000",
+          "currency": "USD",
+          "allocation": "9.78"
+        }
+      ],
+      "securities": [{
+          "type": "Direct Equity",
+          "aum": "1217208.00",
+          "currency": "USD",
+          "allocation": "10.97"
+        },
+        {
+          "type": "Mutual Funds",
+          "aum": "3347322.00",
+          "currency": "USD",
+          "allocation": "30.18"
+        },
+        {
+          "type": "Others",
+          "aum": "507170.00",
+          "currency": "USD",
+          "allocation": "4.57"
+        },
+        {
+          "type": "Bonds",
+          "aum": "760755.00",
+          "currency": "USD",
+          "allocation": "6.86"
+        },
+        {
+          "type": "Others",
+          "aum": "608604.00",
+          "currency": "USD",
+          "allocation": "5.49"
+        },
+        {
+          "type": "Corporate Bonds",
+          "aum": "1267925.00",
+          "currency": "USD",
+          "allocation": "11.43"
+        },
+        {
+          "type": "Structure Products",
+          "aum": "963623.00",
+          "currency": "USD",
+          "allocation": "8.69"
+        },
+        {
+          "type": "Mutual Funds",
+          "aum": "862189.00",
+          "currency": "USD",
+          "allocation": "7.77"
+        },
+        {
+          "type": "Loans",
+          "aum": "608604.00",
+          "currency": "USD",
+          "allocation": "5.49"
+        },
+        {
+          "type": "Real Estate",
+          "aum": "364039.00",
+          "currency": "USD",
+          "allocation": "3.28"
+        },
+        {
+          "type": "Others",
+          "aum": "195338.00",
+          "currency": "USD",
+          "allocation": "1.76"
+        },
+        {
+          "type": "Alternate Investment Fund",
+          "aum": "328523.00",
+          "currency": "USD",
+          "allocation": "2.96"
+        },
+        {
+          "type": "Others",
+          "aum": "106548.00",
+          "currency": "USD",
+          "allocation": "0.96"
+        },
+        {
+          "type": "Deposits",
+          "aum": "372918.00",
+          "currency": "USD",
+          "allocation": "3.36"
+        },
+        {
+          "type": "Mutual Funds",
+          "aum": "88790.00",
+          "currency": "USD",
+          "allocation": "0.80"
+        }
+      ],
+      "revenueFee": [{
+          "feeType": "AUM Based Fees",
+          "revenue": "67932.00",
+          "currency": "USD",
+          "allocation": "27.00"
+        }, {
+          "feeType": "Transaction Based Fees",
+          "revenue": "30695.20",
+          "currency": "USD",
+          "allocation": "12.20"
+        }, {
+          "feeType": "Performance Fees",
+          "revenue": "45288.00",
+          "currency": "USD",
+          "allocation": "18.00"
+        }, {
+          "feeType": "Upfront Commission",
+          "revenue": "52836.00",
+          "currency": "USD",
+          "allocation": "21.00"
+        },
+        {
+          "feeType": "Trail Commission ",
+          "revenue": "25109.68",
+          "currency": "USD",
+          "allocation": "9.98"
+        }, {
+          "feeType": "Others",
+          "revenue": "29739.12",
+          "currency": "USD",
+          "allocation": "11.82"
+        }
+      ],
+      "revenueProduct": [{
+          "productType": "Discretionary Portfolio Management",
+          "revenue": "25160.00",
+          "currency": "USD",
+          "allocation": "10.00"
+        }, {
+          "productType": "Financial Planning",
+          "revenue": "17612.00",
+          "currency": "USD",
+          "allocation": "7.00"
+        },
+        {
+          "productType": "Investment Management Account",
+          "revenue": "21209.88",
+          "currency": "USD",
+          "allocation": "8.43"
+        }, {
+          "productType": "Personal Equity & Retirement Account",
+          "revenue": "15096.00",
+          "currency": "USD",
+          "allocation": "6.00"
+        },
+        {
+          "productType": "Private Banking",
+          "revenue": "30192.00",
+          "currency": "USD",
+          "allocation": "12.00"
+        }, {
+          "productType": "Unit Investment Trust Fund ",
+          "revenue": "29988.90",
+          "currency": "USD",
+          "allocation": "11.92"
+        },
+        {
+          "productType": "Wealth Management ",
+          "revenue": "100589.68",
+          "currency": "USD",
+          "allocation": "39.98"
+        }, {
+          "productType": "Others",
+          "revenue": "11751.54",
+          "currency": "USD",
+          "allocation": "4.67"
+        }
+      ],
+      "aumTrend": [{
+          "aum": "11919200.00",
+          "currency": "USD",
+          "period": "18-Sep",
+          "aumMin": "11.92"
+        }, {
+          "aum": "11204048.00",
+          "currency": "USD",
+          "period": "18-Jun",
+          "aumMin": "11.2"
+        }, {
+          "aum": "8739157.44",
+          "currency": "USD",
+          "period": "18-Mar",
+          "aumMin": "8.74"
+        }, {
+          "aum": "10486988.93",
+          "currency": "USD",
+          "period": "17-Dec",
+          "aumMin": "10.49"
+        },
+        {
+          "aum": "9543159.92",
+          "currency": "USD",
+          "period": "17-Sep",
+          "aumMin": "9.5399999999999991"
+        }, {
+          "aum": "8302549.13",
+          "currency": "USD",
+          "period": "17-Jun",
+          "aumMin": "8.3000000000000007"
+        }, {
+          "aum": "8634651.10",
+          "currency": "USD",
+          "period": "17-Mar",
+          "aumMin": "8.6300000000000008"
+        }, {
+          "aum": "10534274.34",
+          "currency": "USD",
+          "period": "16-Dec",
+          "aumMin": "10.53"
+        },
+        {
+          "aum": "9691532.39",
+          "currency": "USD",
+          "period": "16-Sep",
+          "aumMin": "9.69"
+        }, {
+          "aum": "8528548.51",
+          "currency": "USD",
+          "period": "16-Jun",
+          "aumMin": "8.5299999999999994"
+        }
+      ],
+      "revenueTrend": [{
+          "revenue": "251600.00",
+          "currency": "USD",
+          "period": "18-Sep",
+          "revenueMin": "0.25"
+        }, {
+          "revenue": "201280.00",
+          "currency": "USD",
+          "period": "18-Jun",
+          "revenueMin": "0.2"
+        }, {
+          "revenue": "161024.00",
+          "currency": "USD",
+          "period": "18-Mar",
+          "revenueMin": "0.16"
+        }, {
+          "revenue": "128819.20",
+          "currency": "USD",
+          "period": "17-Dec",
+          "revenueMin": "0.13"
+        },
+        {
+          "revenue": "180346.88",
+          "currency": "USD",
+          "period": "17-Sep",
+          "revenueMin": "0.18"
+        }, {
+          "revenue": "183953.82",
+          "currency": "USD",
+          "period": "17-Jun",
+          "revenueMin": "0.18"
+        }, {
+          "revenue": "147163.05",
+          "currency": "USD",
+          "period": "17-Mar",
+          "revenueMin": "0.15"
+        }, {
+          "revenue": "135390.01",
+          "currency": "USD",
+          "period": "16-Dec",
+          "revenueMin": "0.14000000000000001"
+        },
+        {
+          "revenue": "109665.91",
+          "currency": "USD",
+          "period": "16-Sep",
+          "revenueMin": "0.11"
+        }, {
+          "revenue": "83346.09",
+          "currency": "USD",
+          "period": "16-Jun",
+          "revenueMin": "0.08"
+        }
+      ],
+      "RM_Manager": [{
+          "count": "28",
+          "period": "18-Sep",
+          "existingNew": "Existing"
+        }, {
+          "count": "34",
+          "period": "18-Jun",
+          "existingNew": "Existing"
+        }, {
+          "count": "21",
+          "period": "18-Mar",
+          "existingNew": "Existing"
+        }, {
+          "count": "39",
+          "period": "17-Dec",
+          "existingNew": "Existing"
+        },
+        {
+          "count": "27",
+          "period": "17-Sep",
+          "existingNew": "Existing"
+        }, {
+          "count": "22",
+          "period": "17-Jun",
+          "existingNew": "Existing"
+        }, {
+          "count": "25",
+          "period": "17-Mar",
+          "existingNew": "Existing"
+        }, {
+          "count": "20",
+          "period": "16-Dec",
+          "existingNew": "Existing"
+        },
+        {
+          "count": "22",
+          "period": "16-Sep",
+          "existingNew": "Existing"
+        }, {
+          "count": "19",
+          "period": "16-Jun",
+          "existingNew": "Existing"
+        }, {
+          "count": "4",
+          "period": "18-Sep",
+          "existingNew": "New"
+        }, {
+          "count": "9",
+          "period": "18-Jun",
+          "existingNew": "New"
+        },
+        {
+          "count": "4",
+          "period": "18-Mar",
+          "existingNew": "New"
+        }, {
+          "count": "3",
+          "period": "17-Dec",
+          "existingNew": "New"
+        }, {
+          "count": "3",
+          "period": "17-Sep",
+          "existingNew": "New"
+        }, {
+          "count": " - ",
+          "period": "17-Mar",
+          "existingNew": "New"
+        },
+        {
+          "count": " - ",
+          "period": "17-Mar",
+          "existingNew": "New"
+        }, {
+          "count": "4",
+          "period": "16-Dec",
+          "existingNew": "New"
+        }, {
+          "count": "3",
+          "period": "16-Sep",
+          "existingNew": "New"
+        }, {
+          "count": "2",
+          "period": "16-Jun",
+          "existingNew": ""
+        }
+      ]
+    }
+  ]
+}
